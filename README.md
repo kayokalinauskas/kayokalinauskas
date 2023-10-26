@@ -8,4 +8,4 @@ React, Next.js, Typescript, Angular, Javascript, HTML, CSS, Jest
 
 **Projects:**
 
-* [Kayo Kalinauskas Personal Portfolio](https://kayokalinauskas.com.br/)
+* [Kayo Kalinauskas](https://kayokalinauskas.com.br/)
